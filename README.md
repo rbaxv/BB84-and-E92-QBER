@@ -1,4 +1,4 @@
-# BB84-and-E92-QBER
+# BB84-and-E91-QBER
 # Quantum Key Distribution Simulator
 
 A Python-based simulator for quantum key distribution protocols including BB84 and E91 (Ekert91) with real-time visualization and analysis of Quantum Bit Error Rate (QBER).
